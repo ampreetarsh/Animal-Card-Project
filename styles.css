@@ -1,0 +1,47 @@
+.all h3{
+    font-size:25px;
+}
+
+h2{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.image{
+    width:300px;
+    box-shadow: 5px 5px lightgrey;
+    height: 250px;  
+    border-radius: 5px 10px;
+}
+.fact{
+    font-style:italic;
+}
+.list{
+    list-style-type:none;
+}
+.list span{
+    font-weight:bold;
+    
+}
+.list{
+    padding:unset;
+}
+.all{
+    border:1px solid gainsboro;
+    padding:10px;
+    margin-left: auto;
+    margin-right: auto;
+    width:300px;
+    box-shadow:5px 10px rgba(230, 230, 230, 0.65);
+    background-color: mintcream;
+}
+.info{
+    border:1px solid gainsboro;
+    padding:8px;
+    margin-top:15px;
+    box-shadow: 5px 5px lightgrey;
+    height: 200px;
+    overflow: auto;
+    text-align: justify;
+    border-radius: 5px 10px;
+}
